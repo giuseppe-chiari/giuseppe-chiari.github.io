@@ -3,7 +3,7 @@ main:
   - title: Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces
     authors: <strong>Giuseppe Chiari</strong>, <strong>Davide Galli</strong>, Davide Zoni
     conference_short: ACACES24
-    conference: 20th International Summer School on Advanced Computer Architecture and Compilation for High-Performance Embedded Systems, 2024.
+    conference: 20th International Summer School on Advanced Computer Architecture and Compilation for High-Performance Embedded Systems <strong>(ACACES)</strong>, 2024.
     pdf: ./assets/files/poster_ACACES24.pdf
     image: ./assets/img/poster_ACACES24.png
     notes: Poster

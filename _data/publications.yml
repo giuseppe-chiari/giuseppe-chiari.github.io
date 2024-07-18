@@ -1,11 +1,19 @@
 main:
 
+  - title: Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces
+    authors: <strong>Giuseppe Chiari</strong>, <strong>Davide Galli</strong>, Davide Zoni
+    conference_short: ACACES24
+    conference: 20th International Summer School on Advanced Computer Architecture and Compilation for High-Performance Embedded Systems, 2024.
+    pdf: ./assets/files/poster_ACACES24.pdf
+    image: ./assets/img/poster_ACACES24.png
+    notes: Poster
+  
   - title: A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces 
     authors: <strong>Giuseppe Chiari</strong>, Davide Galli, Francesco Lattari, Matteo Matteucci, Davide Zoni
     conference_short: DATE24
     conference: Design, Automation & Test in Europe Conference & Exhibition <strong>(DATE)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10546758
     code: https://github.com/hardware-fab/DL-to-locate-COs-for-SCA
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/bibs/date24.bib
     image: ./assets/img/date24.png
     notes: Published

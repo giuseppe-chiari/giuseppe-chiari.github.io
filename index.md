@@ -18,6 +18,9 @@ techniques in:
 
 ## News
 
+- **[July 2024]** <i style="color:#e74d3c">Participant</i> at ***20th International Summer School on Advanced Computer Architecture 
+	and Compilation for High-Performance Embedded Systems***, presenting poster 
+	***Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces***
 - **[June 2024]** ***A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces*** 
 	has been <i style="color:#e74d3c">published</i> on IEEE Xplore.
 - **[Nov. 2023]** ***A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces*** 

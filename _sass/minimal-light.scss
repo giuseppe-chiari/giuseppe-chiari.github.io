@@ -106,9 +106,16 @@
 .orcid span{
   background-color:#000}
 
+.smile span{
+  background-color:#000}
+
 email {
     font-size: 16px;
     font-family: "Ubuntu Mono";
+}
+
+period {
+    font-size: 14px;
 }
 
 .icon-button i{
@@ -138,10 +145,13 @@ email {
 .icon-button .icon-orcid{
   color:#000;}
 
+.icon-button .icon-smile{
+  color:#000;}
+
 .icon-button .icon-linkedin{
   color:#0077B5}
 
-.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-orcid,.icon-button:hover .icon-linkedin{color:white}
+.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-orcid,.icon-button:hover .icon-smile,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
   color:#595959;

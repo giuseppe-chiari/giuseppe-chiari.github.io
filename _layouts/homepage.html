@@ -49,6 +49,10 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+	{% if site.period %}
+	<period>{{ site.period }}</period>
+	<br>
+	{% endif  %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
@@ -101,8 +105,17 @@
 
 	{% if site.organization %}
 	Member of <b>hardware-fab</b>
-	<a  href="{{ site.organization }}">
+	{% endif %}
+
+	{% if site.github_org %}
+	<a  href="{{ site.github_org }}">
           <i class="fab fa-github"></i>
+        </a>
+        {% endif %}
+
+	{% if site.huggingface_org %}
+        <a  href="{{ site.huggingface_org }}">
+	  🤗
         </a>
         {% endif %}
 

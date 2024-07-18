@@ -1,6 +1,7 @@
 # Basic Information 
 title: Giuseppe Chiari
 position: Ph.D. Student
+period: (Dec. 2023 - ...)
 affiliation: Politecnico di Milano - DEIB 
 email: giuseppe.chiari@polimi.it
 
@@ -17,8 +18,10 @@ google_scholar: https://scholar.google.com/citations?user=w1V-ZEIAAAAJ&hl=it
 github_link: https://github.com/giuseppe-chiari
 linkedin: https://www.linkedin.com/in/giuseppe-chiari-5433b515b/
 orcid: https://orcid.org/0009-0003-0659-1438
-organization: https://github.com/hardware-fab
+organization: hardware-fab
+github_org: https://github.com/hardware-fab
 #twitter: https://twitter.com/
+huggingface_org: https://huggingface.co/hardware-fab 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

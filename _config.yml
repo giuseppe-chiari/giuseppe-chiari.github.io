@@ -2,34 +2,28 @@
 title: Giuseppe Chiari
 position: Ph.D. Student
 period: (Dec. 2023 - ...)
-affiliation: Politecnico di Milano - DEIB 
+affiliation: Politecnico di Milano - DEIB
+affiliation_website: https://www.polimi.it/
+organization: hardware-fab
+laboratory: HEAPLab 
+lab_website: https://heaplab.deib.polimi.it/
 email: giuseppe.chiari@polimi.it
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: polimi phd personal website
-#description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-#canonical: https://minimal-light-theme.yliu.me/
+keywords: polimi phd personal website deep-learning EDA side-channel-analysis
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Social links 
 google_scholar: https://scholar.google.com/citations?user=w1V-ZEIAAAAJ&hl=it
 #cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/giuseppe-chiari
 linkedin: https://www.linkedin.com/in/giuseppe-chiari-5433b515b/
 orcid: https://orcid.org/0009-0003-0659-1438
-organization: hardware-fab
-#laboratory: HEAPLab
-#lab_website: https://heaplab.deib.polimi.it/
 github_org: https://github.com/hardware-fab
-#twitter: https://twitter.com/
 huggingface_org: https://huggingface.co/hardware-fab 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-#favicon: ./assets/img/favicon.png
-#favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -42,14 +36,6 @@ auto_dark_mode: true
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-#google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-#remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:

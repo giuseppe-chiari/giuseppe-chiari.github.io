@@ -17,9 +17,9 @@ techniques in:
 - **side-channel analysis** (hardware security)
 
 ## News
-
-- **[Aug. 2024]** New <i style="color:#e74d3c">preprint</i> on [Arxiv](https://arxiv.org/abs/2408.06296) on locating DFS-affected
-	cryptographic operations in side-channel power traces.
+- **[Aug. 2024]** Our work on locating crytographic operations in DFS-affected side-channel power traces has been accepted at
+	***International Conference on Computer Design (ICCD) 2024***. <i style="color:#e74d3c">Preprint</i> 
+	available on [Arxiv](https://arxiv.org/abs/2408.06296).
 - **[July 2024]** <i style="color:#e74d3c">Participant</i> at the ***20th International Summer School on Advanced Computer Architecture 
 	and Compilation for High-Performance Embedded Systems (ACACES)***, presenting poster 
 	***Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces***

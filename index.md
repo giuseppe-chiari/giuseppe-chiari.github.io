@@ -18,12 +18,14 @@ techniques in:
 
 ## News
 
-- **[July 2024]** <i style="color:#e74d3c">Participant</i> at ***20th International Summer School on Advanced Computer Architecture 
+- **[Aug. 2024]** New <i style="color:#e74d3c">preprint</i> on [Arxiv](https://arxiv.org/abs/2408.06296) on locating DFS-affected
+	cryptographic operations in side-channel power traces.
+- **[July 2024]** <i style="color:#e74d3c">Participant</i> at the ***20th International Summer School on Advanced Computer Architecture 
 	and Compilation for High-Performance Embedded Systems (ACACES)***, presenting poster 
 	***Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces***
 - **[June 2024]** ***A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces*** 
 	has been <i style="color:#e74d3c">published</i> on [IEEE Xplore](https://ieeexplore.ieee.org/document/10546758).
 - **[Nov. 2023]** ***A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces*** 
-	has been <i style="color:#e74d3c">accepted</i> to DATE 2024 conference.
+	has been <i style="color:#e74d3c">accepted</i> to ***Design, Automation and Test in Europe (DATE) 2024*** conference.
 
 {% include_relative _includes/publications.md %}

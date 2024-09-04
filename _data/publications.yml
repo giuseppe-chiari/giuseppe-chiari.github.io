@@ -1,6 +1,7 @@
 main:
 
   - title: "Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning"
+    webpage: https://arxiv.org/abs/2408.06296
     authors: Davide Galli, <strong>Giuseppe Chiari</strong>, Davide Zoni
     conference_short: Preprint
     # conference: The 42nd IEEE International Conference on Computer Design
@@ -9,6 +10,7 @@ main:
     notes: Preprint
 
   - title: Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces
+    webpage: ./assets/files/poster_ACACES24.pdf
     authors: <strong>Giuseppe Chiari</strong>, Davide Galli, Davide Zoni
     conference_short: ACACES24
     conference: 20th International Summer School on Advanced Computer Architecture and Compilation for High-Performance Embedded Systems, 2024.
@@ -16,11 +18,12 @@ main:
     image: ./assets/img/poster_ACACES24.png
     notes: Poster
   
-  - title: A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces 
+  - title: A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces
+    webpage: https://ieeexplore.ieee.org/document/10546758
     authors: <strong>Giuseppe Chiari</strong>, Davide Galli, Francesco Lattari, Matteo Matteucci, Davide Zoni
     conference_short: DATE24
     conference: Design, Automation & Test in Europe Conference & Exhibition, 2024.
-    pdf: https://ieeexplore.ieee.org/document/10546758
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10546758
     code: https://github.com/hardware-fab/DL-to-locate-COs-for-SCA
     bibtex: ./assets/bibs/date24.bib
     image: ./assets/img/date24.png

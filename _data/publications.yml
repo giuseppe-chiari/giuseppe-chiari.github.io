@@ -6,6 +6,7 @@ main:
     conference_short: Preprint
     # conference: The 42nd IEEE International Conference on Computer Design
     pdf: https://arxiv.org/pdf/2408.06296
+    bibtex: ./assets/bibs/hound24.bib
     image: ./assets/img/preprint_hound.png
     notes: Preprint
 

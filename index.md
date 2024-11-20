@@ -18,7 +18,7 @@ techniques in:
 
 ## News
 - **[Nov. 2024]** <i style="color:#e74d3c">Participant</i> at the ***42nd IEEE International Conference on Computer Design (ICCD) 2024***.
-- **[Aug. 2024]** Our work on locating crytographic operations in DFS-affected side-channel power traces has been accepted at
+- **[Aug. 2024]** Our work on locating crytographic operations in DFS-affected side-channel power traces has been <i style="color:#e74d3c">accepted</i> at
 	the ***42nd International Conference on Computer Design (ICCD) 2024***. <i style="color:#e74d3c">Preprint</i> 
 	available on [Arxiv](https://arxiv.org/abs/2408.06296).
 - **[July 2024]** <i style="color:#e74d3c">Participant</i> at the ***20th International Summer School on Advanced Computer Architecture 

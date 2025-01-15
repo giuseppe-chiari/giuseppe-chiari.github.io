@@ -19,6 +19,7 @@ techniques in:
 ## News
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
 	<ul>
+	<li><b>[Jan. 2025]</b> <b>Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning</b> has been <i style="color:#e74d3c">published</i> on <a href="https://ieeexplore.ieee.org/document/10818126">IEEE Xplore</a>.</li>
 	<li><b>[Nov. 2024]</b> <i style="color:#e74d3c">Participant</i> at the <b>42nd IEEE International Conference on Computer Design (ICCD) 2024</b>.</li>
 	<li><b>[Aug. 2024]</b> Our work on locating cryptographic operations in DFS-affected side-channel power traces has been <i style="color:#e74d3c">accepted</i> at
 		the <b>42nd International Conference on Computer Design (ICCD) 2024</b>. <i style="color:#e74d3c">Preprint</i> 
@@ -32,18 +33,5 @@ techniques in:
 		has been <i style="color:#e74d3c">accepted</i> to <b>Design, Automation and Test in Europe (DATE) 2024</b> conference.</li>
 	</ul>
 </div>
-
-<!-- ## News
-- **[Nov. 2024]** <i style="color:#e74d3c">Participant</i> at the ***42nd IEEE International Conference on Computer Design (ICCD) 2024***.
-- **[Aug. 2024]** Our work on locating crytographic operations in DFS-affected side-channel power traces has been <i style="color:#e74d3c">accepted</i> at
-	the ***42nd International Conference on Computer Design (ICCD) 2024***. <i style="color:#e74d3c">Preprint</i> 
-	available on [Arxiv](https://arxiv.org/abs/2408.06296).
-- **[July 2024]** <i style="color:#e74d3c">Participant</i> at the ***20th International Summer School on Advanced Computer Architecture 
-	and Compilation for High-Performance Embedded Systems (ACACES)***, presenting poster 
-	***Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces***
-- **[June 2024]** ***A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces*** 
-	has been <i style="color:#e74d3c">published</i> on [IEEE Xplore](https://ieeexplore.ieee.org/document/10546758).
-- **[Nov. 2023]** ***A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces*** 
-	has been <i style="color:#e74d3c">accepted</i> to ***Design, Automation and Test in Europe (DATE) 2024*** conference. -->
 
 {% include_relative _includes/publications.md %}

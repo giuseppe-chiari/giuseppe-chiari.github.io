@@ -1,7 +1,7 @@
 main:
 
   - title: "Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning"
-    webpage: https://arxiv.org/abs/2408.06296
+    webpage: https://ieeexplore.ieee.org/document/10818126
     authors: Davide Galli, <strong>Giuseppe Chiari</strong>, Davide Zoni
     conference_short: ICCD24
     conference: The 42nd IEEE International Conference on Computer Design

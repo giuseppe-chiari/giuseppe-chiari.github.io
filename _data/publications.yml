@@ -1,4 +1,15 @@
 main:
+  
+  - title: "Chameleon: A Dataset for Segmenting and Attacking Obfuscated Power Traces in Side-Channel Analysis"
+    webpage: https://icscm.ub.rub.de/index.php/TCHES/article/view/12221
+    authors: Davide Galli, <strong>Giuseppe Chiari</strong>, Davide Zoni
+    conference_short: TCHES25
+    conference: IACR Transactions on Cryptographic Hardware and Embedded Systems, 2025.
+    pdf: https://icscm.ub.rub.de/index.php/TCHES/article/view/12221/12028
+    code: https://github.com/hardware-fab/chameleon
+    bibtex: ./assets/bibs/tches25.bib
+    image: ./assets/img/chameleon.png
+    notes: Published paper
 
   - title: "Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning"
     webpage: https://ieeexplore.ieee.org/document/10818126

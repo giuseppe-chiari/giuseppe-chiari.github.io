@@ -19,6 +19,8 @@ techniques in:
 ## News
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
 	<ul>
+	<li><b>[June 2025]</b> Our work <b>Chameleon: A Dataset for Segmenting and Attacking Obfuscated Power Traces in Side-Channel Analysis</b> has been 
+	<i style="color:#e74d3c">accepted</i> and <i style="color:#e74d3c">published</i> on <a href="https://icscm.ub.rub.de/index.php/TCHES/article/view/12221">IACR Transactions on Cryptographic Hardware and Embedded Systems 2025</a></li>
 	<li><b>[Jan. 2025]</b> <b>Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning</b> has been <i style="color:#e74d3c">published</i> on <a href="https://ieeexplore.ieee.org/document/10818126">IEEE Xplore</a>.</li>
 	<li><b>[Nov. 2024]</b> <i style="color:#e74d3c">Participant</i> at the <b>42nd IEEE International Conference on Computer Design (ICCD) 2024</b>.</li>
 	<li><b>[Aug. 2024]</b> Our work on locating cryptographic operations in DFS-affected side-channel power traces has been <i style="color:#e74d3c">accepted</i> at

@@ -1,4 +1,15 @@
 main:
+
+  - title: "OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation"
+    webpage: https://arxiv.org/abs/2601.19439
+    authors: <strong>Giuseppe Chiari</strong>, Michele Piccoli, Davide Zoni
+    conference_short: ICLR26
+    conference: International Conference on Learning Representations, 2026.
+    pdf: https://arxiv.org/pdf/2601.19439
+    code: https://huggingface.co/datasets/hardware-fab/osiris
+    bibtex: ./assets/bibs/iclr26.bib
+    image: ./assets/img/osiris_iclr2026.png
+    notes: Pre-print
   
   - title: "Chameleon: A Dataset for Segmenting and Attacking Obfuscated Power Traces in Side-Channel Analysis"
     webpage: https://icscm.ub.rub.de/index.php/TCHES/article/view/12221
@@ -22,7 +33,7 @@ main:
     image: ./assets/img/preprint_hound.png
     notes: Published paper
 
-  - title: Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces
+  - title: "Towards Robust Deep-Learning Cryptographic Localization in Side-Channel Traces"
     webpage: ./assets/files/poster_ACACES24.pdf
     authors: <strong>Giuseppe Chiari</strong>, Davide Galli, Davide Zoni
     conference_short: ACACES24
@@ -31,7 +42,7 @@ main:
     image: ./assets/img/poster_ACACES24.png
     notes: Poster
   
-  - title: A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces
+  - title: "A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces"
     webpage: https://ieeexplore.ieee.org/document/10546758
     authors: <strong>Giuseppe Chiari</strong>, Davide Galli, Francesco Lattari, Matteo Matteucci, Davide Zoni
     conference_short: DATE24

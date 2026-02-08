@@ -1,15 +1,15 @@
 main:
 
   - title: "OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation"
-    webpage: https://arxiv.org/abs/2601.19439
+    webpage: https://openreview.net/forum?id=TIDaHgj0Yj
     authors: <strong>Giuseppe Chiari</strong>, Michele Piccoli, Davide Zoni
     conference_short: ICLR26
     conference: International Conference on Learning Representations, 2026.
-    pdf: https://arxiv.org/pdf/2601.19439
+    pdf: https://openreview.net/pdf?id=TIDaHgj0Yj
     code: https://huggingface.co/datasets/hardware-fab/osiris
     bibtex: ./assets/bibs/iclr26.bib
     image: ./assets/img/osiris_iclr2026.png
-    notes: Pre-print
+    notes: Published
   
   - title: "Chameleon: A Dataset for Segmenting and Attacking Obfuscated Power Traces in Side-Channel Analysis"
     webpage: https://icscm.ub.rub.de/index.php/TCHES/article/view/12221

@@ -19,6 +19,7 @@ techniques in:
 ## News
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
 	<ul>
+	<li><b>[Feb. - Apr. 2026]</b> <i style="color:#e74d3c">Reviewer</i> for the International Conference on Machine Learning (ICML) 2026.</li>
 	<li><b>[Feb. 2026]</b> Check out the <i style="color:#e74d3c">camera-ready</i> version of <b>OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation</b>, available on <a href="https://openreview.net/forum?id=TIDaHgj0Yj">OpenReview</a>.</li>
 	<li><b>[Jan. 2026]</b> Our work <b>OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation</b> has been 
 	<i style="color:#e74d3c">accepted</i> at <a href="https://iclr.cc/">International Conference on Learning Representations 2026</a>. Check out the pre-print on <a href="https://arxiv.org/abs/2601.19439">arxiv</a>.</li>
@@ -41,3 +42,5 @@ techniques in:
 </div>
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}↴
+

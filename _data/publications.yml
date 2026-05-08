@@ -9,7 +9,7 @@ main:
     code: https://huggingface.co/datasets/hardware-fab/osiris
     bibtex: ./assets/bibs/iclr26.bib
     image: ./assets/img/osiris_iclr2026.png
-    notes: Published
+    notes: Published paper
   
   - title: "Chameleon: A Dataset for Segmenting and Attacking Obfuscated Power Traces in Side-Channel Analysis"
     webpage: https://icscm.ub.rub.de/index.php/TCHES/article/view/12221

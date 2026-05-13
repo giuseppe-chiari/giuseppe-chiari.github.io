@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://icml.cc/" target="_blank" ><autocolor>The Forty-Third International Conference on Machine Learning (ICML) 2026</autocolor></a></li>
+  <li><i style="color:#e73d3c">Gold Reviewer</i> (top 25%) -  <a href="https://icml.cc/" target="_blank" ><autocolor>The Forty-Third International Conference on Machine Learning (ICML) 2026</autocolor></a></li>
 </ul>
 
 <!--<h4 style="margin:0 10px 0;">Journal Reviewers</h4>

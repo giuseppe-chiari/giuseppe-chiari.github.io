@@ -1,5 +1,16 @@
 main:
 
+  - title: "Inspector: Conversational and Lightweight Analyzer of Analog Circuit Layouts Using LLM and CNNs"
+    webpage:
+    authors: Abril Cano Castro, <strong>Giuseppe Chiari</strong>, Michele Piccoli, Federico Viola, Davide Zoni
+    conference_short: ICLAD26
+    conference: IEEE International Conference on LLM-Aided Design, 2026.
+    pdf:
+    code:
+    bibtex:
+    image: ./assets/img/inspector_iclad2026.png
+    notes: Published paper
+
   - title: "OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation"
     webpage: https://openreview.net/forum?id=TIDaHgj0Yj
     authors: <strong>Giuseppe Chiari</strong>, Michele Piccoli, Davide Zoni

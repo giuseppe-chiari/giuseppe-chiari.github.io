@@ -1,13 +1,24 @@
 main:
 
+  - title: "THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout"
+    webpage: https://arxiv.org/abs/2609.35035
+    authors: <strong>Giuseppe Chiari</strong>, Michele Piccoli, Federico Viola, Davide Zoni
+    conference_short: NeurIPS26
+    conference: Annual Conference on Neural Information Processing Systems, 2026.
+    pdf: https://arxiv.org/pdf/2609.35035
+    code: https://huggingface.co/datasets/hardware-fab/theia
+    bibtex: ./assets/bibs/neurips26.bib
+    image: ./assets/img/theia_neurips2026.png
+    notes: Pre-print
+
   - title: "Inspector: Conversational and Lightweight Analyzer of Analog Circuit Layouts Using LLM and CNNs"
-    webpage:
+    webpage: https://arxiv.org/abs/2609.34976
     authors: Abril Cano Castro, <strong>Giuseppe Chiari</strong>, Michele Piccoli, Federico Viola, Davide Zoni
     conference_short: ICLAD26
     conference: IEEE International Conference on LLM-Aided Design, 2026.
-    pdf:
-    code:
-    bibtex:
+    pdf: https://arxiv.org/pdf/2609.34976
+    code: https://huggingface.co/datasets/hardware-fab/Inspector
+    bibtex: ./assets/bibs/iclad26.bib
     image: ./assets/img/inspector_iclad2026.png
     notes: Published paper
 

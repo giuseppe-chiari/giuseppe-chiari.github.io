@@ -19,6 +19,9 @@ techniques in:
 ## News
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
 	<ul>
+	<li><b>[Sept. 2026]</b> Our work <b>THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout</b> has been 
+	<i style="color:#e74d3c">accepted</i> at the <a href="https://neurips.cc/">Annual Conference on Neural Information Processing Systems (NeurIPS) 2026</a>.</li>
+	<li><b>[May - Aug. 2026]</b> <i style="color:#e74d3c">Reviewer</i> for the Annual Conference on Neural Information Processing Systems (NeurIPS) 2026.</li>
 	<li><b>[May 2026]</b> Our work <b>Inspector: Conversational and Lightweight Analyzer of Analog Circuit Layouts Using LLM and CNNs</b> has been 
 	<i style="color:#e74d3c">accepted</i> at <a href="https://iclad.ai/">IEEE International Conference on LLM-Aided Design 2026</a>.</li>
 	<li><b>[Feb. - Apr. 2026]</b> <i style="color:#e74d3c">Reviewer</i> for the International Conference on Machine Learning (ICML) 2026.</li>
